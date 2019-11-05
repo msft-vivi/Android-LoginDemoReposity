@@ -25,7 +25,7 @@
 │           │   └── UserServlet.java
 │           └── util
 │               ├── DBUtil.java # JDBC：数据库连接操作
-│               └── StreamTools.java
+│               └── StreamTools.java # 工具类
 └── WebContent
     ├── index.jsp
     ├── META-INF
